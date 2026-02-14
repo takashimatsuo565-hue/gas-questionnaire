@@ -1,5 +1,6 @@
 /* ===== レーダーチャート ===== */
 console.log("chartcommon loaded");
+document.write("test");
 
 const ctx = document.getElementById("radarChart");
 
@@ -106,4 +107,5 @@ function updateChart(){
   chart.data.datasets[0].data=averages;
   chart.update();
 }
+
 
