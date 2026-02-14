@@ -1,1 +1,1 @@
-console.log("common load");
+document.write("test");
