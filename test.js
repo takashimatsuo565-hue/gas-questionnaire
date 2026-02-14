@@ -1,1 +1,2 @@
-document.write("test");
+document.body.insertAdjacentHTML("beforeend","test");
+
