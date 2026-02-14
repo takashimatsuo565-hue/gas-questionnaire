@@ -1,2 +1,4 @@
-document.body.insertAdjacentHTML("beforeend","test");
+<script>
+  document.body.insertAdjacentHTML("beforeend","test");
+</script>
 
